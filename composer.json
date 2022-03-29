@@ -23,7 +23,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Timofiy\\FooBundle\\": ""
+      "Timofiy\\BarBundle\\": ""
     }
   },
   "minimum-stability": "dev",
