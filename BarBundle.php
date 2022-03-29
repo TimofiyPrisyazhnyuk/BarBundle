@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Bundle\BarBundle;
+namespace Timofiy\BarBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
