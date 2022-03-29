@@ -1,6 +1,6 @@
 services:
 
-  barbundle.command.hello:
-    class: Timofiy\FooBundle\Command\HiCommand
+  barbundle.command.hi:
+    class: Timofiy\BarBundle\Command\HiCommand
     tags:
       - { name: console.command }
